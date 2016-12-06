@@ -1,0 +1,71 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.title {
+	margin-top: 50px;
+	margin-bottom:100px;
+
+}
+.title h1 {
+	color: #3472ff;
+}
+.container .row h2, .container i{
+	color: #3472ff;
+}
+#label-file{
+	font-size:28px;
+	color: #3472ff;
+	margin-bottom:25px;
+}
+input[type=file]{
+	margin-left:auto;
+	margin-right:auto;
+}
+#btn-submit{
+	font-size: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #3472ff;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    margin-top: 50px;
+}
+.gallerie img{
+	height:175px;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+footer{
+	margin-top:100px;
+	clear:both;
+}
+#error{
+	color: red;
+	text-align: center;
+	font-size: 22px;
+	margin:0;
+}
+#success{
+	color: green;
+	text-align: center;
+	font-size: 22px;
+	margin:0;
+}
+#progress{
+	display:none;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
